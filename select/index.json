@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Romantic Seaside（Drama Short Ver.）",
+  "base_artist": "セイア（CV:種﨑敦美）",
+  "createdAt": "2026-02-20T00:05:53.265309Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romantic Seaside(Drama Ver.)",
+      "artist": "セイア(CV:種﨑敦美)",
+      "has_synced": false,
+      "path": "select/pl_01_Romantic_Seaside(Drama_Ver.)_セイア(CV_種﨑敦美).txt"
+    }
+  ]
+}
